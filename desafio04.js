@@ -1,5 +1,5 @@
 
-//Problema: Verificar se um número é par ou ímpar.//
+//Problema: Verificar se um número é par ou ímpar.
 
 let numeros = prompt('Digite um número inteiro')
 
