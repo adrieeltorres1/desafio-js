@@ -1,6 +1,6 @@
 
 
-//Escolher lado de um triângulo
+//Escolher lado de um triângulo//
 
 let LadoUm = prompt('Insira o primeiro valor do triângulo');
 
