@@ -1,4 +1,4 @@
-//Problema: Verifique se um número é positivo, negativo ou zero.//
+//Problema: Verifique se um número é positivo, negativo ou zero.
 
 let numero = parseFloat(prompt('Digite um número'));
 
