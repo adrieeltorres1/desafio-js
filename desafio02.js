@@ -1,4 +1,4 @@
-// Condicional para velocidade//
+// Condicional para velocidade
 
 let velocidade = prompt('Qual a velocidade?');
 
